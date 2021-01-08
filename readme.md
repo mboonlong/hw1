@@ -1,0 +1,1 @@
+In this project, I created a basic structure for a website for my fictional business "Mod's Thai Kitchen," an online marketplace for authentic Thai ingredients. 
